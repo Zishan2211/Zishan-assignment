@@ -4,8 +4,8 @@
     font-family: 'Work Sans';
     text-align: right;
     margin: 0 150px;
-   padding-top: 216px;
-   padding-bottom: 20px;
+    padding-top: 216px;
+    padding-bottom: 20px;
 }
 
 .banner-des {
@@ -20,16 +20,61 @@
     background-image: url(/images/banner/banner2.png);
     width: 1450px;
     height: 700px;
-    position: absolute;
-    
 }
-.btn-primary{
+
+.btn-primary {
     position: absolute;
-width: 140px;
-height: 60px;
-color: #FFFFFF;
-background: #F15B22;
-border-radius: 5px;
-border: none;
-margin-left: 80%;
+    width: 140px;
+    height: 60px;
+    color: #FFFFFF;
+    background: #F15B22;
+    border-radius: 5px;
+    border: none;
+    margin-left: 80%;
 }
+
+/* header work finish */
+
+.section {
+    display: flex;
+
+
+}
+
+.section-container {
+    font-family: 'Work Sans';
+    padding-left: 150px;
+
+}
+
+.section-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 369px;
+    padding-bottom: 10px;
+
+
+}
+
+.section-des {
+    font-weight: 400;
+    font-size: 16px;
+
+
+}
+
+.section-sub-title {
+    width: 349px;
+    height: 162px;
+
+}
+
+.section-img{
+    width: 569px;
+height: 723.3px;
+padding-left: 150px;
+padding-top: 135px;
+}
+
+/* 2nd section work finish */
