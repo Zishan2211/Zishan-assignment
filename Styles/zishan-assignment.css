@@ -1,0 +1,35 @@
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    font-family: 'Work Sans';
+    text-align: right;
+    margin: 0 150px;
+   padding-top: 216px;
+   padding-bottom: 20px;
+}
+
+.banner-des {
+    color: #444343;
+    font-size: 16px;
+    text-align: right;
+    margin: 0 150px;
+    padding-bottom: 32px;
+}
+
+.header {
+    background-image: url(/images/banner/banner2.png);
+    width: 1450px;
+    height: 700px;
+    position: absolute;
+    
+}
+.btn-primary{
+    position: absolute;
+width: 140px;
+height: 60px;
+color: #FFFFFF;
+background: #F15B22;
+border-radius: 5px;
+border: none;
+margin-left: 80%;
+}
