@@ -17,7 +17,7 @@
 }
 
 .header {
-    background-image: url(../images/banner/banner2.png);
+    background-image: url('../images/banner/banner2.png');
     width: 1450px;
     height: 700px;
 }
@@ -97,6 +97,7 @@
 
 .skill {
     padding: 50px;
+    text-align: center;
 }
 
 .skill-title {
@@ -104,13 +105,11 @@
     font-size: 20px;
     margin-top: 30px;
     margin-bottom: 20px;
-    text-align: center;
 
 }
 
 .skil-des {
     color: #737272;
-    text-align: center;
 }
 
 
@@ -165,5 +164,49 @@ input{
     background: #151414;
     border: 1px solid #FFFFFF;
     color:#FFFFFF;
+    
+}
+
+/* call-now-container{ */
+
+.call-now-container{
+    background: url(../images/watch.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 135px;
+    margin-right: 225px;
+    margin-bottom: 150px;
+    border-radius: 8px;
+    width: 1140px;
+
+}
+
+.call-now-gradient {
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    padding-bottom: 40px;
+}
+
+.Call-now{
+width: 160px;
+height: 64px;
+color: #F15B22;
+border: none;
+border-radius: 5px;
+
+
+}
+.call-now-title{
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+padding-top: 70px;
+padding-left: 40px;
+
+color: #FFFFFF;
+}
+.now{
+    padding-left: 40px;
     
 }
