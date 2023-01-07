@@ -67,8 +67,10 @@
 .section-sub-title {
     width: 349px;
     height: 162px;
+    list-style: none;
 
 }
+
 
 .section-img {
     width: 569px;
